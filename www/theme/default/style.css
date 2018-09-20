@@ -1,0 +1,13 @@
+/**
+* The css file of ZenTaoPMS.
+*
+* @copyright   Copyright 2009-2015 青岛易软天创网络科技有限公司(QingDao Nature Easy Soft Network Technology Co,LTD, www.cnezsoft.com)
+* @license     ZPL (http://zpl.pub/page/zplv12.html)
+* @author      Chunsheng Wang <chunsheng@cnezsoft.com>
+* @package     front
+* @version     $Id: style.css 1454 2009-10-23 01:45:26Z wwccss $
+* @link        http://www.zentao.net
+*/
+.article-content, .article>.content{word-wrap: break-word;}
+
+#noticeBox .alert {box-shadow: rgba(0,0,0,.15) 0 0.15rem 0.5rem, rgba(0,0,0,.25) 0 0.15rem 0.5rem;}
